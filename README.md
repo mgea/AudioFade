@@ -1,6 +1,12 @@
-# AudioFade
-jQuery plugin for manipulating audio as you scroll
+# Scroll AudioFade
 
+Using Audiofade to tell stories while you are scrolling  3rd April, 2019
+
+Contributions to: KamboBlack AudioFade Project 
+        https://github.com/KamboBlack/AudioFade
+
+
+jQuery plugin for manipulating audio as you scroll
 ### Dependancies
 jQuery 1.2.6 or later
 
